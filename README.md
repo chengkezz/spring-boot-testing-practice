@@ -1,6 +1,6 @@
 # Spring Boot Testing Practice
 
-使用使用者管理 REST API 練習 Spring Boot 測試的專案，涵蓋 MockMvc、Mockito、參數化測試、H2 資料庫整合測試與 JaCoCo 覆蓋率報告。
+以使用者管理 REST API 為例，練習 Spring Boot 測試，涵蓋 MockMvc、Mockito、參數化測試、H2 資料庫整合測試與 JaCoCo 覆蓋率報告。
 
 ## 使用技術
 
